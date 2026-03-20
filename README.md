@@ -116,13 +116,13 @@ As tabelas serão criadas automaticamente no Oracle via `hibernate.hbm2ddl.auto=
 ### 🖥️ IDE — Execução do programa
  
 #### Reflection gerando SQL automaticamente
-![Reflection SQL](prints/REFLECTION.png)
+![Reflection SQL](prints/REFLECTIOn.png)
  
 #### CREATE — Insert no banco
 ![INSERT](prints/CREATE.png)
  
 #### READ — Select no banco
-![SELECT](prints/READ*ALL.png)
+![SELECT](prints/READ ALL.png)
  
 #### UPDATE — Atualização no banco
 ![UPDATE](prints/UPDATE.png)
