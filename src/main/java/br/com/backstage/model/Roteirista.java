@@ -61,5 +61,19 @@ public class Roteirista extends Funcionario {
         );
     }
 
+    public int getNumeroDePaginas() {
+        return numeroDePaginas;
+    }
 
+    public void setNumeroDePaginas(int numeroDePaginas) {
+        this.numeroDePaginas = numeroDePaginas;
+    }
+
+    public BigDecimal getValorPorPagina() {
+        return valorPorPagina;
+    }
+
+    public void setValorPorPagina(BigDecimal valorPorPagina) {
+        this.valorPorPagina = valorPorPagina;
+    }
 }
