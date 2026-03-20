@@ -136,19 +136,19 @@ As tabelas serão criadas automaticamente no Oracle via `hibernate.hbm2ddl.auto=
  
 #### Tabelas criadas automaticamente pelo Hibernate
 <!-- Adicione aqui o print das tabelas no Oracle -->
-![Tabelas Oracle](prints/oracle-tabelas.png)
+![Tabelas Oracle](prints/TABELAS.png)
  
 #### Registros inseridos
 <!-- Adicione aqui o print dos registros no Oracle após o INSERT -->
-![Registros Oracle](prints/oracle-insert.png)
+![Registros Oracle](prints/INSERT-UPDATE.png)
  
 #### Registro atualizado
 <!-- Adicione aqui o print do registro atualizado no Oracle -->
-![Update Oracle](prints/oracle-update.png)
+![Update Oracle](prints/INSERT-UPDATE.png)
  
 #### Registro removido
 <!-- Adicione aqui o print confirmando o DELETE no Oracle -->
-![Delete Oracle](prints/oracle-delete.png)
+![Delete Oracle](prints/DELETE-SQL.png)
  
 ---
  
