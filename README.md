@@ -110,6 +110,47 @@ src/main/resources/META-INF/
 As tabelas serão criadas automaticamente no Oracle via `hibernate.hbm2ddl.auto=update`.
  
 ---
+
+## 📸 Evidências de Execução
+ 
+### 🖥️ IDE — Execução do programa
+ 
+#### Reflection gerando SQL automaticamente
+![Reflection SQL](prints/REFLECTIOn.png)
+ 
+#### CREATE — Insert no banco
+![INSERT](prints/CREATE.png)
+ 
+#### READ — Select no banco
+![SELECT](prints/READ-ALL.png)
+ 
+#### UPDATE — Atualização no banco
+![UPDATE](prints/UPDATE.png)
+ 
+#### DELETE — Remoção no banco
+![DELETE](prints/DELETE.png)
+ 
+---
+ 
+### 🗄️ Oracle SQL Developer — Comprovação no banco
+ 
+#### Tabelas criadas automaticamente pelo Hibernate
+<!-- Adicione aqui o print das tabelas no Oracle -->
+![Tabelas Oracle](prints/oracle-tabelas.png)
+ 
+#### Registros inseridos
+<!-- Adicione aqui o print dos registros no Oracle após o INSERT -->
+![Registros Oracle](prints/oracle-insert.png)
+ 
+#### Registro atualizado
+<!-- Adicione aqui o print do registro atualizado no Oracle -->
+![Update Oracle](prints/oracle-update.png)
+ 
+#### Registro removido
+<!-- Adicione aqui o print confirmando o DELETE no Oracle -->
+![Delete Oracle](prints/oracle-delete.png)
+ 
+---
  
 ## 🛠️ Tecnologias
  
