@@ -122,7 +122,7 @@ As tabelas serão criadas automaticamente no Oracle via `hibernate.hbm2ddl.auto=
 ![INSERT](prints/CREATE.png)
  
 #### READ — Select no banco
-![SELECT](prints/READ ALL.png)
+![SELECT](prints/READ-ALL.png)
  
 #### UPDATE — Atualização no banco
 ![UPDATE](prints/UPDATE.png)
